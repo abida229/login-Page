@@ -1,0 +1,50 @@
+h2{
+    text-align: center;
+    margin-top: 100px;
+    text-align: center;
+
+}
+.flexbox{
+    background-color: #FFFFFF;
+    height: 70vh;
+    width: 550px; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* border: 2px solid black; */
+    margin-left: 400px;
+    text-align: center;
+    box-shadow: 3px 3px 10px gray;
+    flex-wrap: wrap;
+
+
+
+}
+h3{
+    text-align: center;
+    color: #8D448B;
+    font-size: larger;
+    font-weight: bold;
+}
+
+.user{
+height: 50px;
+width: 350px;
+background-color:#F2F2F2;
+border-radius: 7px;
+border: grey;
+}
+a{
+    text-decoration: none;
+}
+button{
+    padding: 10px;
+    background-color: #8D448B;
+    margin-left: 530px;
+    padding-left: 120px;
+    padding-right: 100px;
+    margin-top: -10px;
+    color: white;
+    font-size: medium;
+    border-radius: 8px;
+}
